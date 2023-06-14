@@ -1,3 +1,19 @@
+.list{
+    text-align: center;
+}
+.add{
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(4, 85, 4);
+    cursor: pointer;
+    border-radius: 20px;
+    margin-bottom: 30px;
+
+
+}
 #users{
     display: flex;
     flex-wrap: wrap;
@@ -9,3 +25,4 @@
     margin-bottom: 4%;
     text-align: center;
 }
+

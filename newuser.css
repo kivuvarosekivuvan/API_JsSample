@@ -1,0 +1,30 @@
+.reg-form{
+    margin: 0 auto;
+    /* border: 1px solid green; */
+    width: 40%;
+}
+h1{
+    font-size: 40px;
+    margin-left:20px ;
+    color: rgb(201, 3, 151);
+}
+.reg-form >input{
+    padding: 15px 20px;
+    border-radius: 5px;
+    width: 70%;
+    font-size: 15px;
+    border: 0.5 solid grey;
+    margin-left: 20px;
+}
+.reg-form >button{
+    border: none;
+    outline: none;
+    background-color: rgb(233, 141, 213);
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: black;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
